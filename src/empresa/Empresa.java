@@ -23,6 +23,7 @@ public class Empresa {
         //305-7, Jorge Araus, Obrero, Horas, 80
         Persona perhor = new Trabajador_Hora(30, 'I', 'H', "789-3","Ana Vidal");
         Persona perhor2 = new Trabajador_Hora(80, 'O', 'H', "305-7","Jorge Araus");
+         Persona perhor3 = new Trabajador_Hora(60, 'A', 'F', "310-9","Alexis Tigo");
         
         System.out.println(perfij.mostrarDatos());
         System.out.println(perfij2.mostrarDatos());
