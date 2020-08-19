@@ -29,6 +29,7 @@ public class Empresa {
         System.out.println(perfij2.mostrarDatos());
         System.out.println(perhor.mostrarDatos());
         System.out.println(perhor2.mostrarDatos());
+        System.out.println(perhor3.mostrarDatos());
     }
     
 }
